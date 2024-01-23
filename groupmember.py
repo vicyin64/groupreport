@@ -2,7 +2,7 @@ import time
 import requests
 import pandas as pd
 
-bearer_token = "YTBiMzExNDQtNzVmMy00MjNmLThlOGYtMzIxNmRhZGY1ZmVjZjhjYmNmMmYtM2Nk_P0A1_e1cc9400-34f9-4188-9b20-cec11bb10431"  # replace with your bearer token
+bearer_token = "BEARER_TOKEN"  # replace with your bearer token
 headers = {
     'Authorization': 'Bearer ' + bearer_token,
 }
